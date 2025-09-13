@@ -15,6 +15,7 @@ export default function Header() {
           priority
         />
       </Link>
+      <h1>Game Blog</h1>
     </header>
   );
 }
